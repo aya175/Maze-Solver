@@ -11,7 +11,7 @@ A cool project featuring a 4WD autonomous robot built with an Arduino Mega. It u
 
 ---
 
-## Hardware Setup & Pin Mapping 🔌
+## Hardware Setup & Pin Mapping
 
 ### 1. Control Logic (Arduino Mega)
 Here is how everything connects to the board:
@@ -41,7 +41,7 @@ To make sure all components communicate properly and stay powered, the wiring ut
 
 ---
 
-## Libraries Used 📚
+## Libraries Used
 
 This sketch relies on two primary libraries to keep the code efficient and non-blocking:
 * **`Servo.h`**: To handle the precise 50Hz PWM signals required to position the servo mount.
